@@ -318,7 +318,7 @@ def main():
 
     print("Report Manager Bot is running.")
 
-    timeout-minutes: 10
+
 
 
 if __name__ == "__main__":
