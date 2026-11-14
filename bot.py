@@ -318,7 +318,7 @@ def main():
 
     print("Report Manager Bot is running.")
 
-    app.run_polling(drop_pending_updates=True)
+    timeout-minutes: 10
 
 
 if __name__ == "__main__":
